@@ -39,7 +39,8 @@ I enjoy building intelligent solutions while strengthening my core computer scie
 ---
 
 ### 📫 Connect With Me
-- **LinkedIn:** www.linkedin.com/in/diwanshi-chhabra
+- **LinkedIn:** www.linkedin.com/in/diwanshi-chhabra-4b7424322
+
  
 
 ---
