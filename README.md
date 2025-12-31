@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Diwanshi
 
-<!--
-**Diwanshi-3/Diwanshi-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 AI | DSA | Coding Enthusiast
 
-Here are some ideas to get you started:
+I am passionate about **Artificial Intelligence**, **Data Structures & Algorithms**, and **problem-solving through code**.  
+I enjoy building intelligent solutions while strengthening my core computer science fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Focus Areas
+- Artificial Intelligence & Machine Learning  
+- Data Structures and Algorithms  
+- Competitive Programming & Logical Problem Solving  
+- Writing clean, efficient, and scalable code  
+
+---
+
+### 🛠️ Skills & Tools
+- **Languages:** Python  
+- **Core CS:** Data Structures, Algorithms, Time & Space Complexity  
+- **AI / ML:** Machine Learning, Deep Learning (basics)  
+- **Libraries & Tools:** NumPy, Pandas, Scikit-learn  
+- **Other:** Git, GitHub  
+
+---
+
+### 📚 Currently Working On
+- Strengthening DSA through consistent practice  
+- Implementing AI concepts with hands-on projects  
+- Improving problem-solving and coding efficiency  
+
+---
+
+### 🌱 Goals
+- Master AI engineering fundamentals  
+- Excel in DSA and technical interviews  
+- Build impactful and intelligent software solutions  
+
+---
+
+### 📫 Connect With Me
+- **LinkedIn:** https://linkedin.com/in/your-link-here  
+
+---
+
+✨ *Always learning, always coding.*
